@@ -1,6 +1,6 @@
 # Hello, I'm Daniel Rahamim 👋
 
-I'm a [Your Role] from [Your Location].
+I'm a Dev shaped Ops Engineer from Washington.
 
 - 🔭 I’m currently working on [InvenFlask](https://github.com/drahamim/invenflask)
 - 🌱 I’m currently learning Python
