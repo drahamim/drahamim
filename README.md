@@ -5,7 +5,7 @@ I'm a Dev shaped Ops Engineer from Washington.
 - 🔭 I’m currently working on [Rental Asset Manager](https://github.com/drahamim/RentalAssetManager)
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Python Projects
-- 🤔 I’m looking for help with Developing Invenflask into a Production App
+- 🤔 I’m looking for help with Developing Rental Asset Manager into a Production App
 - 💬 Ask me about DevOps
 - 📫 How to reach me: github@v6-networks.com
 - 😄 Pronouns: He/Him
